@@ -2,10 +2,12 @@
 
 ## Icon may be necessary 
 
-[Include an Icon](http://imgur.com/a/zPK10) 
+![Include an Icon](http://i.imgur.com/qhS7ySi.png) 
+
 An Icon may be necessary to include in the manifest.
 
-[Example Logo](http://imgur.com/MwRQs76)
+![Example Logo](http://i.imgur.com/MwRQs76.png)
+
 Here is a dummy icon until we get a real one. (I'm not really artistically creative/inclined).
 
 ## Create a Developer account
@@ -34,3 +36,24 @@ Further information on Icons/images can be found [here](https://developer.chrome
 
 Description Example: 
 This application is a collection of tools written by and for the Brigham Young University - Idaho Tech Ops Team to assist in backend work and development in the Brightspace Learning Managment System. 
+
+## Pay the developer signup fee
+
+I'm assuming this is done if we already have a developer account.
+
+## Get app constraints and finish your app’s code
+
+We won't need to worry about the Licensing API as we are not charging. I believe app constraints only apply if you need to charge, so we are in the clear I believe.
+
+## Publishing to test accounts
+
+This limits the app to only testing accounts. I believe it is just a whitelist defined at this step of the publication. You can do this list individually or as a group. More information on group set up can be found [here](https://developer.chrome.com/webstore/publish#set-up-group-publishing)
+
+## Publishing to the world
+
+Simply select "Publish" next to your application on the dashboard page. 
+
+## Potentially publishing the app privately????
+
+If we wanted to keep the app private, and publish it so that it is only accessible via our domain, more information can be found [here](https://support.google.com/chrome/a/answer/2663860?hl=en).
+
