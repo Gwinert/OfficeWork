@@ -6,12 +6,12 @@
         
         "accessor-pairs": "off", 
         "array-bracket-spacing": "off" - %,
-        "array-callback-return": "off", - &,
-        "arrow-body-style": "off", 
-        "arrow-parens": "off",
-        "arrow-spacing": "off",
-        "block-scoped-var": "off",
-        "block-spacing": "off",
+        "array-callback-return": "off", - &, - %,
+        "arrow-body-style": "off", - &, - %,
+        "arrow-parens": "off", - &, -%,
+        "arrow-spacing": "off",  - &, - %,
+        "block-scoped-var": "off", - *,
+        "block-spacing": "off", - 
         "brace-style": "off",
         "callback-return": "off",
         "camelcase": "off",
