@@ -1,12 +1,13 @@
-        #ESLint List of Rules
-        $ - Recommended Rules by ESLint
-        * - Recommended Rules by Grey
+        #ESLint List of Rules:
+        $ - Recommended Rules by ESLint.
+        * - Recommended Rules by Grey.
+        & - Good, but not needed rules.
         % - Rules that will be auto fixed when then --fix comamnd is run.
         
         "accessor-pairs": "off", 
         "array-bracket-spacing": "off" - %,
-        "array-callback-return": "off",
-        "arrow-body-style": "off",
+        "array-callback-return": "off", - &,
+        "arrow-body-style": "off", 
         "arrow-parens": "off",
         "arrow-spacing": "off",
         "block-scoped-var": "off",
