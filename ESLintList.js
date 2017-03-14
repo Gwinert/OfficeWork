@@ -249,22 +249,22 @@ module.exports = {
         "sort-vars": "off",   // %, http://eslint.org/docs/rules/sort-vars
         "space-before-blocks": "off",   // %, http://eslint.org/docs/rules/space-before-blocks
         "space-before-function-paren": "off",   // %, http://eslint.org/docs/rules/space-before-function-paren
-        "space-in-parens": "off",   //    http://eslint.org/docs/rules/space-in-parens
-        "space-infix-ops": "off",   //    http://eslint.org/docs/rules/space-infix-ops
-        "space-unary-ops": "off",   //    http://eslint.org/docs/rules/space-unary-ops
-        "spaced-comment": "off",   //    http://eslint.org/docs/rules/spaced-comment
-        "strict": "off",   //    http://eslint.org/docs/rules/strict
-        "symbol-description": "off",   //    http://eslint.org/docs/rules/symbol-description
-        "template-curly-spacing": "off",   //    http://eslint.org/docs/rules/template-curly-spacing
-        "template-tag-spacing": "off",   //    http://eslint.org/docs/rules/template-tag-spacing
-        "unicode-bom": "off",   //    http://eslint.org/docs/rules/unicode-bom
-        "use-isnan": "error",   //    http://eslint.org/docs/rules/use-isnan
+        "space-in-parens": "off",   // %, http://eslint.org/docs/rules/space-in-parens
+        "space-infix-ops": "off",   // %, http://eslint.org/docs/rules/space-infix-ops
+        "space-unary-ops": "off",   // %, http://eslint.org/docs/rules/space-unary-ops
+        "spaced-comment": "off",   // %, http://eslint.org/docs/rules/spaced-comment
+        "strict": "off",   // %, http://eslint.org/docs/rules/strict
+        "symbol-description": "off",   // http://eslint.org/docs/rules/symbol-description
+        "template-curly-spacing": "off",   // %, http://eslint.org/docs/rules/template-curly-spacing
+        "template-tag-spacing": "off",   //  http://eslint.org/docs/rules/template-tag-spacing
+        "unicode-bom": "off",   // %, http://eslint.org/docs/rules/unicode-bom
+        "use-isnan": "error",   // &, http://eslint.org/docs/rules/use-isnan
         "valid-jsdoc": "off",   //    http://eslint.org/docs/rules/valid-jsdoc
-        "valid-typeof": "error",   //    http://eslint.org/docs/rules/valid-typeof
+        "valid-typeof": "error",   // $, http://eslint.org/docs/rules/valid-typeof
         "vars-on-top": "off",   //    http://eslint.org/docs/rules/vars-on-top
         "wrap-iife": "off",   //    http://eslint.org/docs/rules/wrap-iife
         "wrap-regex": "off",   //    http://eslint.org/docs/rules/wrap-regex
-        "yield-star-spacing": "off",   //    http://eslint.org/docs/rules/yield-star-spacing
-        "yoda": "off"
+        "yield-star-spacing": "off",   // %, http://eslint.org/docs/rules/yield-star-spacing
+        "yoda": "off"  // %, http://eslint.org/docs/rules/yoda
     }
 };
