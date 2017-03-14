@@ -12,8 +12,8 @@
 *   Symbol Legend:
 *   $ - Recommended by ESLint.
 *   % - Able to be executed through the "--fix" command (Mostly).
-*   & - Rules I think are good.
-*   * - Rules I think are great.
+*   & - Rules I think are good (qualiy of life).
+*   * - Rules I think are important to impliment.
 */
 
 module.exports = {
