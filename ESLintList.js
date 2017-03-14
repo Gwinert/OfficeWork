@@ -95,21 +95,21 @@ module.exports = {
         "no-confusing-arrow": "off",   //    http://eslint.org/docs/rules/no-confusing-arrow
         "no-console": "error",   //    http://eslint.org/docs/rules/no-console
         "no-const-assign": "error",   // *, $, http://eslint.org/docs/rules/no-const-assign
-        "no-constant-condition": "error",   //    http://eslint.org/docs/rules/no-constant-condition
-        "no-continue": "off",   //    http://eslint.org/docs/rules/no-continue
-        "no-control-regex": "error",   //    http://eslint.org/docs/rules/no-control-regex
-        "no-debugger": "error",   //    http://eslint.org/docs/rules/no-debugger
-        "no-delete-var": "error",   //    http://eslint.org/docs/rules/no-delete-var
+        "no-constant-condition": "error",   // $, http://eslint.org/docs/rules/no-constant-condition
+        "no-continue": "off",   // *, http://eslint.org/docs/rules/no-continue
+        "no-control-regex": "error",   // $, *,  http://eslint.org/docs/rules/no-control-regex
+        "no-debugger": "error",   // $, *, http://eslint.org/docs/rules/no-debugger
+        "no-delete-var": "error",   // $, *, http://eslint.org/docs/rules/no-delete-var
         "no-div-regex": "off",   //    http://eslint.org/docs/rules/no-div-regex
-        "no-dupe-args": "error",   //    http://eslint.org/docs/rules/no-dupe-args
-        "no-dupe-class-members": "error",   //    http://eslint.org/docs/rules/no-dupe-class-members
-        "no-dupe-keys": "error",   //    http://eslint.org/docs/rules/no-dupe-keys
-        "no-duplicate-case": "error",   //    http://eslint.org/docs/rules/no-duplicate-case
-        "no-duplicate-imports": "off",   //    http://eslint.org/docs/rules/no-duplicate-imports
-        "no-else-return": "off",   //    http://eslint.org/docs/rules/no-else-return
-        "no-empty": "error",   //    http://eslint.org/docs/rules/no-empty
-        "no-empty-character-class": "error",   //    http://eslint.org/docs/rules/no-empty-character-class
-        "no-empty-function": "off",   //    http://eslint.org/docs/rules/no-empty-function
+        "no-dupe-args": "error",   // $, http://eslint.org/docs/rules/no-dupe-args
+        "no-dupe-class-members": "error",   // $, http://eslint.org/docs/rules/no-dupe-class-members
+        "no-dupe-keys": "error",   // $, http://eslint.org/docs/rules/no-dupe-keys
+        "no-duplicate-case": "error",   // $, *, http://eslint.org/docs/rules/no-duplicate-case
+        "no-duplicate-imports": "off",   // $, *, http://eslint.org/docs/rules/no-duplicate-imports
+        "no-else-return": "off",   // %, http://eslint.org/docs/rules/no-else-return
+        "no-empty": "error",   // http://eslint.org/docs/rules/no-empty
+        "no-empty-character-class": "error",   // $, *, http://eslint.org/docs/rules/no-empty-character-class
+        "no-empty-function": "off",   // http://eslint.org/docs/rules/no-empty-function
         "no-empty-pattern": "error",   //    http://eslint.org/docs/rules/no-empty-pattern
         "no-eq-null": "off",   //    http://eslint.org/docs/rules/no-eq-null
         "no-eval": "off",   //    http://eslint.org/docs/rules/no-eval
